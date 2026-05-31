@@ -10,4 +10,4 @@
 * [3. Intake - AI 시스템 Intake 시작](ai-control-tower-workshop/3.-intake-ai-intake.md)
 * [4. 평가 – AI use case 영향도 assessment](ai-control-tower-workshop/4.-ai-use-case-assessment.md)
 * [5. 빌드 및 테스트 - Control 구현, 분석 및 검증](ai-control-tower-workshop/5.-control.md)
-* [5.시스템 기록 배포](ai-control-tower-workshop/5..md)
+* [6. AI 시스템 레코드 배포 & 리뷰 그리고 모든 사전 배포 활동 확정](ai-control-tower-workshop/6.-ai-and.md)
