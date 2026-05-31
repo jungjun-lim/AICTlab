@@ -25,7 +25,7 @@ metaLinks:
 
 # 환영합니다.
 
-AI Control Tower Hands on 세션에 참석해주신 파트너 여러분 감사합니다.
+AI Control Tower Hands on 세션에 참석해주신 여러분 감사합니다.
 
 ServiceNow AI Control Tower는 신속하게 업무에 AI를 도입하고자 하는 현업의 요구와 동시에 효과적인 AI 통제, 관리를 필요로 하는 기업 현실을 바탕으로 조직 전반에 걸쳐서 AI에 대한 통합 거버넌스와 관리를 수행하는 통합 플랫폼입니다.&#x20;
 
